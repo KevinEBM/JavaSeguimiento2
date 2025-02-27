@@ -15,8 +15,8 @@ class Telefono extends Dispositivo {
 class Main {
     public static void main(String[] args) {
         Telefono miTelefono = new Telefono();
-        miTelefono.encender(); // Método heredado de Dispositivo
-        miTelefono.llamar();   // Mét
+        miTelefono.encender(); 
+        miTelefono.llamar();   
 
 
     }
