@@ -16,6 +16,6 @@ class Circulo extends Figura {
 class Main {
     public static void main(String[] args) {
         Circulo c = new Circulo();
-        c.dibujar(); // Se ejecuta la versión de Circulo
+        c.dibujar(); 
     }
 }
