@@ -15,7 +15,7 @@ class Nevera extends Electrodomestico {
 class Main {
     public static void main(String[] args) {
         Electrodomestico e = new Electrodomestico();
-        e.encender();  // Funciona correctamente
+        e.encender(); 
 
         Nevera n = new Nevera();
         n.encender();
