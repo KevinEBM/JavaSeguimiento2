@@ -15,7 +15,7 @@ class Coche extends Vehiculo {
 class Main {
     public static void main(String[] args) {
         Coche miCoche = new Coche();
-        miCoche.mover();  // Heredado de Vehiculo
-        miCoche.acelerar(); // Método de Coche
+        miCoche.mover();  
+        miCoche.acelerar(); 
     }
 }
