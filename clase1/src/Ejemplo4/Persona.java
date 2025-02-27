@@ -17,7 +17,7 @@ class Estudiante extends Persona {
 class Main {
     public static void main(String[] args) {
         Estudiante estudiante = new Estudiante();
-        estudiante.saludar();  // Método de Persona
-        estudiante.estudiar(); // Método de Estudiante
+        estudiante.saludar();  
+        estudiante.estudiar(); 
     }
 }
